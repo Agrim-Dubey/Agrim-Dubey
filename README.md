@@ -1,10 +1,10 @@
 <!-- PROFILE README for Agrim-Dubey -->
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="350" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Agrim+Dubey;Full-Stack+Learner;Python+%7C+Django+%7C+FastAPI;Next.js+%7C+JS+%7C+C%2FC%2B%2B;I+build+APIs+and+Web+apps+🚀" alt="Typing SVG" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm <b>Agrim Dubey</b></h1>
+</p>
 <p align="center"><i>Learning Python • Django • FastAPI • HTML/CSS/JS • C/C++ • Next.js • Git • Postman</i></p>
 
 <p align="center">
