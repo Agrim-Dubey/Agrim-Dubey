@@ -1,7 +1,8 @@
 <!-- PROFILE README for Agrim-Dubey -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/Assets/octocat.png" alt="banner" width="350" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="350" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm <b>Agrim Dubey</b></h1>
 <p align="center"><i>Learning Python • Django • FastAPI • HTML/CSS/JS • C/C++ • Next.js • Git • Postman</i></p>
@@ -18,7 +19,7 @@
 
 ---
 
-## 🔐 About Me — Hacker • Professional • Aesthetic
+## 🔐 About Me —
 - 🔭 Currently learning **Python**, **Django**, **FastAPI**; building REST APIs  
 - 🧠 Also learning **HTML / CSS / JS**, **Next.js**, and practicing **C / C++**  
 - ⚙️ Tools I use: Git • GitHub • Postman • VSCode  
