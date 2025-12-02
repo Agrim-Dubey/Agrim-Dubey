@@ -57,7 +57,7 @@
 
 ## 📫 Connect  
 - **LinkedIn:** https://www.linkedin.com/in/agrim-dubey-0371aa378  
-- **Email:** agrimidubey37@gmail.com  
+- **Email:** agrimdubey37@gmail.com  
 
 ---
 
