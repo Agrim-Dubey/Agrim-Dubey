@@ -1,26 +1,43 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Agrim%20Dubey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Animated Header with Better Design -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Agrim%20Dubey&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+APIs+%26+Web+Experiences;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<!-- Typing Animation with More Lines -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Scalable+APIs+%F0%9F%94%A5;Crafting+Beautiful+Web+Experiences+%E2%9C%A8;Python+%7C+Django+%7C+FastAPI+Expert+%F0%9F%90%8D;React+%7C+Next.js+Developer+%E2%9A%9B%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;GSoC+2026+Aspirant+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
+<br/>
+
+<!-- Brief Intro with Icons -->
 <p>
-  <em>Crafting robust backends with <b>Python</b> & <b>Django</b> • Building modern frontends with <b>Next.js</b></em>
+  <em>
+    💻 Crafting <b>robust backends</b> with Python & Django<br/>
+    🎨 Building <b>modern frontends</b> with Next.js & React<br/>
+    🔐 Passionate about <b>API security</b> & clean architecture
+  </em>
 </p>
 
+<!-- Social Badges with Better Design -->
 <p>
   <a href="https://www.linkedin.com/in/agrim-dubey-0371aa378" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:agrimdubey37@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
   <a href="https://github.com/Agrim-Dubey">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/agrim_dubey" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Agrim-Dubey&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+<br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=Agrim-Dubey&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Agrim-Dubey?style=for-the-badge&color=58A6FF&labelColor=1c1917&logo=github&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
@@ -89,21 +106,25 @@ me.say_hi()
 
 <div align="center">
 
+<!-- GitHub Stats Card -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agrim-Dubey&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats"/>
 
+<!-- Top Languages Card -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agrim-Dubey&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
+<!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Agrim-Dubey&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Agrim-Dubey&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Activity Graph"/>
+<!-- Activity Graph - FIXED VERSION -->
+[![Agrim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Agrim-Dubey&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -113,7 +134,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Agrim-Dubey&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Agrim-Dubey&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -177,11 +198,17 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Agrim-Dubey&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Coding Activity" onerror="this.style.display='none'"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agrim-Dubey/Agrim-Dubey/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agrim-Dubey/Agrim-Dubey/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Agrim-Dubey/Agrim-Dubey/output/github-contribution-grid-snake.svg">
+</picture>
+
+_Eating my contributions like a 🐍_
 
 </div>
 
@@ -197,15 +224,7 @@ me.say_hi()
 
 ---
 
-## 🎵 Currently Vibing To
 
-<div align="center">
-
-[![Spotify](https://novatorem-agrim-dubey.vercel.app/api/spotify)](https://open.spotify.com/user/agrimdubey)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
@@ -225,9 +244,15 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<!-- Footer Wave with Better Colors -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
 
-### Show some ❤️ by starring repositories you find interesting!
+### ⭐ Show some love by starring repositories you find interesting!
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" alt="Made with Markdown"/>
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=for-the-badge" alt="Maintained"/>
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge" alt="Ask me anything"/>
+</p>
 
 </div>
