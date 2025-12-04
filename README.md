@@ -1,73 +1,39 @@
 <div align="center">
 
-<!-- Animated Header with Better Design -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Agrim%20Dubey&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50"/>
+<!-- Simple Clean Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=150&section=header&text=Agrim%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<!-- Typing Animation with More Lines -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Scalable+APIs+%F0%9F%94%A5;Crafting+Beautiful+Web+Experiences+%E2%9C%A8;Python+%7C+Django+%7C+FastAPI+Expert+%F0%9F%90%8D;React+%7C+Next.js+Developer+%E2%9A%9B%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;GSoC+2026+Aspirant+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Simple Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Python+%7C+Django+%7C+FastAPI;JavaScript+%7C+React+%7C+Next.js" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
-<!-- Brief Intro with Icons -->
+<!-- Simple Social Badges -->
 <p>
-  <em>
-    💻 Crafting <b>robust backends</b> with Python & Django<br/>
-    🎨 Building <b>modern frontends</b> with Next.js & React<br/>
-    🔐 Passionate about <b>API security</b> & clean architecture
-  </em>
-</p>
-
-<!-- Social Badges with Better Design -->
-<p>
-  <a href="https://www.linkedin.com/in/agrim-dubey-0371aa378" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/agrim-dubey-0371aa378">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:agrimdubey37@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Agrim-Dubey">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/agrim_dubey" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<br/>
-
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Agrim-Dubey&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Agrim-Dubey?style=for-the-badge&color=58A6FF&labelColor=1c1917&logo=github&label=FOLLOWERS" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Agrim-Dubey&style=flat-square&color=blue" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Agrim Dubey"
-        self.role = "Full-Stack Developer"
-        self.location = "India 🇮🇳"
-        self.languages = ["Python", "JavaScript", "C", "C++"]
-        self.current_focus = ["Django", "FastAPI", "Next.js", "REST APIs"]
-        self.learning = ["Open Source Contribution", "System Design", "Web Security"]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
-
-me = Developer()
-me.say_hi()
-```
-
-### 🎯 Current Focus
-- 🔨 Building **production-ready REST APIs** with Django & FastAPI
-- 🌐 Crafting **modern web applications** using Next.js & React
-- 🤝 Contributing to **Open Source** projects (preparing for GSoC 2026!)
-- 📚 Deepening knowledge in **software architecture** & **clean code**
-- 🔐 Learning **API security** & **authentication best practices**
+- 🔭 Learning **Python**, **Django**, **FastAPI** - building REST APIs
+- 🌐 Working with **JavaScript**, **React**, **Next.js**
+- 💻 Also practicing **C/C++** for competitive programming
+- 🛠️ Tools: Git, GitHub, Postman, VSCode
+- 📫 Reach me: **agrimdubey37@gmail.com**
 
 ---
 
@@ -218,7 +184,7 @@ _Eating my contributions like a 🐍_
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -230,13 +196,9 @@ _Eating my contributions like a 🐍_
 
 <div align="center">
 
-<p>
-💼 Open to collaborations, internships, and interesting projects!<br/>
-📧 Drop me a line at <a href="mailto:agrimdubey37@gmail.com">agrimdubey37@gmail.com</a><br/>
-🔗 Connect with me on <a href="https://www.linkedin.com/in/agrim-dubey-0371aa378">LinkedIn</a>
-</p>
-
-### **"Code is like humor. When you have to explain it, it's bad." — Cory House**
+💼 Open to collaborations and interesting projects<br/>
+📧 Email: **agrimdubey37@gmail.com**<br/>
+🔗 LinkedIn: [Agrim Dubey](https://www.linkedin.com/in/agrim-dubey-0371aa378)
 
 </div>
 
@@ -244,15 +206,9 @@ _Eating my contributions like a 🐍_
 
 <div align="center">
 
-<!-- Footer Wave with Better Colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+<!-- Simple Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
 
-### ⭐ Show some love by starring repositories you find interesting!
-
-<p>
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" alt="Made with Markdown"/>
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=for-the-badge" alt="Maintained"/>
-  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge" alt="Ask me anything"/>
-</p>
+**Thanks for visiting!** ⭐ **Star some repos if you find them interesting!**
 
 </div>
