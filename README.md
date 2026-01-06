@@ -30,9 +30,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 Learning **Python**, **Django**, **FastAPI** - building REST APIs
-- 🌐 Working with **JavaScript**, **React**, **Next.js**
+- 🌐 Working with **Flutter**, **Next.js**
 - 💻 Also practicing **C/C++** for competitive programming
-- 🛠️ Tools: Git, GitHub, Postman, VSCode
 - 📫 Reach me: **agrimdubey37@gmail.com**
 
 ---
@@ -67,9 +66,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
 <!-- GitHub Stats Card -->
@@ -95,77 +91,11 @@
 </div>
 
 ---
-
-## 🏆 GitHub Achievements
-
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agrim-Dubey&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔌 API Demo
-**REST API built with FastAPI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-*A production-ready REST API showcasing best practices in API design, authentication, and documentation.*
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Website
-**Modern portfolio with Next.js**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-*Responsive personal portfolio showcasing projects, skills, and experience with smooth animations.*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💻 CP Templates
-**C/C++ Competitive Programming**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square)
-
-*Collection of optimized templates and algorithms for competitive programming challenges.*
-
-</td>
-<td width="50%">
-
-### 🚧 More Coming Soon...
-**Currently working on new projects**
-
-![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
-
-*Stay tuned for more exciting projects!*
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Contribution Stats
-
 <div align="center">
 
 <picture>
@@ -179,8 +109,6 @@ _Eating my contributions like a 🐍_
 </div>
 
 ---
-
-## 💡 Random Dev Quote
 
 <div align="center">
 
