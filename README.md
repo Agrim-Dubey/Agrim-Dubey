@@ -1,103 +1,70 @@
-<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#79c0ff;stop-opacity:1" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <style>
-      .title {
-        font-family: 'Courier New', monospace;
-        font-size: 52px;
-        font-weight: 700;
-        fill: url(#textGrad);
-        filter: url(#glow);
-        animation: fadeSlideIn 1.2s ease forwards;
-        opacity: 0;
-      }
-      .subtitle {
-        font-family: 'Courier New', monospace;
-        font-size: 18px;
-        fill: #8b949e;
-        animation: fadeSlideIn 1.2s ease 0.4s forwards;
-        opacity: 0;
-      }
-      .cursor {
-        fill: #58a6ff;
-        animation: blink 1s step-end infinite;
-      }
-      .dot1 { fill: #ff5f57; }
-      .dot2 { fill: #febc2e; }
-      .dot3 { fill: #28c840; }
-      .bar { fill: #30363d; rx: 12; ry: 12; }
-      @keyframes fadeSlideIn {
-        0% { opacity: 0; transform: translateY(16px); }
-        100% { opacity: 1; transform: translateY(0); }
-      }
-      @keyframes blink {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0; }
-      }
-      @keyframes scanline {
-        0% { transform: translateY(-100%); }
-        100% { transform: translateY(200px); }
-      }
-      .scanline {
-        animation: scanline 3s linear infinite;
-        opacity: 0.03;
-      }
-      .grid-line {
-        stroke: #58a6ff;
-        stroke-opacity: 0.06;
-        stroke-width: 1;
-      }
-    </style>
-  </defs>
+<div align="center">
 
-  <!-- Background -->
-  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=150&section=header&text=Agrim%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-  <!-- Subtle grid -->
-  <line class="grid-line" x1="0" y1="50" x2="900" y2="50"/>
-  <line class="grid-line" x1="0" y1="100" x2="900" y2="100"/>
-  <line class="grid-line" x1="0" y1="150" x2="900" y2="150"/>
-  <line class="grid-line" x1="150" y1="0" x2="150" y2="200"/>
-  <line class="grid-line" x1="300" y1="0" x2="300" y2="200"/>
-  <line class="grid-line" x1="450" y1="0" x2="450" y2="200"/>
-  <line class="grid-line" x1="600" y1="0" x2="600" y2="200"/>
-  <line class="grid-line" x1="750" y1="0" x2="750" y2="200"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Python+%7C+Django+%7C+FastAPI;JavaScript+%7C+React+%7C+Next.js" alt="Typing SVG" /></a>
 
-  <!-- Scanline effect -->
-  <rect class="scanline" x="0" y="0" width="900" height="4" fill="#58a6ff"/>
+<br/>
 
-  <!-- Terminal window chrome -->
-  <rect x="20" y="18" width="860" height="164" fill="#0d1117" rx="8" stroke="#30363d" stroke-width="1"/>
-  <circle class="dot1" cx="40" cy="34" r="5"/>
-  <circle class="dot2" cx="57" cy="34" r="5"/>
-  <circle class="dot3" cx="74" cy="34" r="5"/>
-  <line x1="20" y1="46" x2="880" y2="46" stroke="#30363d" stroke-width="1"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrim-dubey-0371aa378)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrimdubey37@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agrim-Dubey)
 
-  <!-- Terminal prompt line -->
-  <text x="38" y="78" font-family="'Courier New', monospace" font-size="13" fill="#28c840">agrim@dev</text>
-  <text x="107" y="78" font-family="'Courier New', monospace" font-size="13" fill="#8b949e">:</text>
-  <text x="115" y="78" font-family="'Courier New', monospace" font-size="13" fill="#58a6ff">~</text>
-  <text x="127" y="78" font-family="'Courier New', monospace" font-size="13" fill="#8b949e">$</text>
-  <text x="140" y="78" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9"> whoami</text>
+</div>
 
-  <!-- Name output -->
-  <text class="title" x="38" y="138">Agrim Dubey</text>
-  <rect class="cursor" x="330" y="116" width="3" height="28" rx="1"/>
+---
 
-  <!-- subtitle -->
-  <text class="subtitle" x="38" y="168">CS Student · Backend Dev · Full-Stack · Always Building</text>
-</svg>
+## 👨‍💻 About Me
+
+- 🔭 Learning **Python**, **Django**, **FastAPI** — building REST APIs
+- 🌐 Working with **Flutter**, **Next.js**
+- 💻 Practicing **C/C++** for competitive programming
+- 📫 Reach me: **agrimdubey37@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+💼 Open to collaborations and interesting projects
+📧 **agrimdubey37@gmail.com**
+🔗 [LinkedIn — Agrim Dubey](https://www.linkedin.com/in/agrim-dubey-0371aa378)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer" width="100%"/>
